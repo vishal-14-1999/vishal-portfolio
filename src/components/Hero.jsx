@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { personal, techStack } from '../data/portfolio';
 import { ArrowDown, Mail, Phone, Sparkles } from 'lucide-react';
